@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestingEspresso</string>
+    <string name="register">Register</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="error_text">all fields are required</string>
+    <string name="count_created">New account has created</string>
+</resources>
